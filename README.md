@@ -20,5 +20,6 @@ Este repositório contém um módulo Python para gerar relatórios de qualidade 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://https://github.com/cleitonMore/data_quality.git
+cd data_quality.py
+
