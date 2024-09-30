@@ -1,6 +1,6 @@
-# Data_Quality.py
+# Data Quality
 
-Este repositório contém um módulo Python para gerar relatórios de qualidade de dados utilizando a biblioteca Pandas. O módulo fornece uma análise abrangente de qualquer conjunto de dados, incluindo contagem de valores nulos, valores únicos, estatísticas descritivas, e gráficos de distribuição.
+Este repositório contém um módulo Python para analisar e visualizar a qualidade de dados utilizando a biblioteca Pandas. O módulo permite a navegação interativa em arquivos CSV, fornecendo uma análise abrangente de qualquer conjunto de dados, incluindo contagem de valores nulos, valores únicos, estatísticas descritivas e gráficos de distribuição.
 
 ## Funcionalidades
 
@@ -8,18 +8,16 @@ Este repositório contém um módulo Python para gerar relatórios de qualidade 
 - **Contagem de Valores Únicos**: Exibe o número de valores únicos em cada coluna.
 - **Estatísticas Descritivas**: Gera estatísticas para colunas numéricas.
 - **Value Counts**: Mostra contagens de valores para colunas categóricas.
-- **Gráficos de Distribuição**: Cria gráficos interativos para visualizar a distribuição de colunas numéricas e categóricas.
+- **Navegação Interativa**: Permite visualizar e filtrar dados de um arquivo CSV de forma interativa.
+- **Exibição de Ajuda**: Fornece comandos disponíveis para navegação e filtragem.
 
 ## Requisitos
 
 - Python 3.x
 - Pandas
-- Plotly
 
 ## Instalação
 
 1. Clone este repositório:
    ```bash
-   git clone https://https://github.com/cleitonMore/data_quality.git
-cd data_quality.py
-
+   git clone https://github.com/cleitonmore/data_quality.git
