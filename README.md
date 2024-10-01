@@ -15,6 +15,9 @@ Este repositório contém um módulo Python para gerar relatórios de qualidade 
 
 - Python 3.x
 - Pandas
+- matplotlib.pyplot
+- time
+- os
 
 ## Instalação
 
